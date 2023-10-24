@@ -25,8 +25,6 @@
 <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div>
-<div align="right">
-<img src="https://github.com/Luciana-mon/Luciana-mon/assets/61600055/a819db7d-2c94-42e2-b23b-9647f8a43a8b" width="400px" />
+<img src="https://github.com/Luciana-mon/Luciana-mon/assets/61600055/a819db7d-2c94-42e2-b23b-9647f8a43a8b" width="200px" align="right" />
 </div>
 
